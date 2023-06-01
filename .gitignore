@@ -179,5 +179,6 @@ pyrightconfig.json
 *env
 *.csv
 *.pdf
-*.pkl
+*.odt
 *.html
+
